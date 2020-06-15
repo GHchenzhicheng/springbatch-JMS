@@ -69,7 +69,7 @@
 		<dependency>
 			<groupId>commons-collections</groupId>
 			<artifactId>commons-collections</artifactId>
-			<version>3.2.1</version>
+			<version>3.2.2</version>
 		</dependency>
 		<!--解析xml  -->
 		<!-- https://mvnrepository.com/artifact/org.dom4j/dom4j -->
